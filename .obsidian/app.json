@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "2. Reconnaissance/Attachmants",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,34 +1,5 @@
 
-*This page has all retaiert machines form hackthebox*
-![[Pasted image 20230414135755.png]]
-
-*How to search for machines*
-![[Pasted image 20230414135939.png]]
-
-# 1. Download VPN:
-
-*Download OVPN*
-![[Pasted image 20230226173052.png]]
-
-# 2. Connect to VPN
-
-Command:
-
-```
-sudo openvpn <name_of_download_file>.ovpn
-```
-
-![[Pasted image 20230226173504.png]]
-
-- if everything is OK we bekame faloing message:
-
-![[Pasted image 20230226173711.png]]
-
-- next step is to SPAWN MACHINE:
-
-![[Pasted image 20230226173928.png]]
-
-# 3. Hack the box Machines:
+# 1. Hack the box Machines:
 
 ## 1. Mongod (Very Easy)
 
@@ -679,12 +650,6 @@ Yes
 cf277664b1771217d7006acdea006db1 
 ```
 
-
-
-
-
-
-
 ## 11. Pennyworth (Very Easy)
 
 10.129.38.123
@@ -748,7 +713,6 @@ reverse shell
 ```
 9cdfb439c7876e703e307864c9167a15
 ```
-
 
 
 ## 12. Tactics (Very Easy)
@@ -887,8 +851,6 @@ ConsoleHost_history.txt
 ```
 b91ccec3305e98240082d4474b848528
 ```
-
-
 
 ## 14. Oopsie (Very Easy)
 

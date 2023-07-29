@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "939e75b5fb292620",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bbf5b7660e1ae0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2707e47f8f619827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26273338b6dd045a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6698326fbefcb34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7219a73525e5d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "782f55f95d2c546e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "python shell",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b52fe9b8128b03b1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e0a861387fd3afc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "cc10d9ecb73fe2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07a1fff4788d185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9b32fa41eb19b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HackTheBox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9eed0584dc1d257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HackTheBox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2da065b8c0c20e08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b9487cf57895f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HackTheBox.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1c7219a73525e5d6",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20230718163748.png",
+    "Attachments/Pasted image 20230718134123.png",
+    "Attachments/Pasted image 20230718114332.png",
+    "Attachments/Pasted image 20230718114252.png",
+    "Attachments/Pasted image 20230623140510.png",
+    "Attachments/Pasted image 20230623141844.png",
+    "Attachments/Pasted image 20230623141306.png",
+    "Attachments/Pasted image 20230623141119.png",
+    "Attachments/Pasted image 20230623141015.png",
+    "Attachments/Pasted image 20230623140840.png",
+    "Attachments/Pasted image 20230623140326.png",
+    "HackTheBox.md",
+    "aaa",
+    "New folder",
+    "Attachments",
+    "4. Compromising Platforms/5.LFI-RFI Attacks/LFI-RFI Attacks.md",
+    "Kali-Linux/Kali-Linux.md",
+    "BASH/BASH.md",
+    "BASH",
+    "4. Compromising Platforms/4.Injection Attacks/Injection Attacks.md",
+    "4. Compromising Platforms/3.Explaining Basic Web Vulnerabilities/Explaining Basic Web Vulnerabilities.md",
+    "4. Compromising Platforms/2.Enumerating Web Applications/Enumerating Web Applications.md",
+    "4. Compromising Platforms/1.How Web Applications are Working/How WebApps operate.md",
+    "4. Compromising Platforms/7.Web Shells Basics/Web Shell Basic.md",
+    "4. Compromising Platforms/7.Web Shells Basics",
+    "Useful_Links/Best Links.md",
+    "HackTheBox/HackTheBox.md",
+    "2. Reconnaissance/Tools/Burp Suite.md",
+    "4. Compromising Platforms/6.Broken Authentication/Broken Authentication.md",
+    "4. Compromising Platforms/6.Broken Authentication",
+    "2. Reconnaissance/Tools/SSH.md",
+    "2. Reconnaissance/Tools/Nmap.md",
+    "1. Introduction in Cyber Security/1.Introduction in Cyber Security/Intorduction in Cyber Security.md",
+    "2. Reconnaissance/6.Documentation/192.168.181.130 - Best practises for Documentation.md",
+    "2. Reconnaissance/7.Exam_120223/192.168.181.130.md",
+    "2. Reconnaissance/Payloads/4. Information Disclosure Vulnerability.md",
+    "4. Compromising Platforms/Tools/Fuff.md",
+    "4. Compromising Platforms/5.LFI-RFI Attacks",
+    "2. Reconnaissance/Tools/Sqlmap.md",
+    "4. Compromising Platforms/Tools",
+    "MySQL/MySQL.md",
+    "MySQL",
+    "4. Compromising Platforms/4.Injection Attacks",
+    "3. System and Network Compromising/6.Active Directory/Active Directory Enumeration (AD).md",
+    "2. Reconnaissance/Payloads/7. Outdated Software Vulnerabilities.md",
+    "HTTP Attacks/Attack Wordpress Server.md"
+  ]
+}
