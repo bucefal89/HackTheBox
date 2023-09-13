@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200
   },
   "right": {
     "id": "cc10d9ecb73fe2fe",
@@ -155,19 +155,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c7219a73525e5d6",
+  "active": "2707e47f8f619827",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230913095505.png",
+    "Attachments/Pasted image 20230913085624.png",
+    "Attachments/Pasted image 20230913085232.png",
+    "Attachments/Pasted image 20230913085056.png",
+    "Attachments/Pasted image 20230912094338.png",
+    "Attachments/Pasted image 20230912094002.png",
+    "Attachments/Pasted image 20230912091112.png",
     "Attachments/Pasted image 20230718163748.png",
     "Attachments/Pasted image 20230718134123.png",
     "Attachments/Pasted image 20230718114332.png",
     "Attachments/Pasted image 20230718114252.png",
-    "Attachments/Pasted image 20230623140510.png",
-    "Attachments/Pasted image 20230623141844.png",
-    "Attachments/Pasted image 20230623141306.png",
-    "Attachments/Pasted image 20230623141119.png",
-    "Attachments/Pasted image 20230623141015.png",
-    "Attachments/Pasted image 20230623140840.png",
-    "Attachments/Pasted image 20230623140326.png",
     "HackTheBox.md",
     "aaa",
     "New folder",
