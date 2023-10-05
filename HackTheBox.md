@@ -1356,3 +1356,99 @@ wevtutil.exe
 f574a3e7650cebd8c39784299cb570f8
 ```
 
+
+## 19. Base (Very Easy)
+
+10.129.193.166
+
+1. Which two TCP ports are open on the remote host?
+
+```
+22,80
+```
+
+![[Pasted image 20230929092839.png]]
+
+2.  What is the relative path on the webserver for the login page?
+
+```
+/login/login.php
+```
+
+3. How many files are present in the '/login' directory? 
+
+```
+3
+```
+
+![[Pasted image 20230929093206.png]]
+
+4. What is the file extension of a swap file? 
+
+```
+.swp
+```
+
+5. Which PHP function is being used in the backend code to compare the user submitted username and password to the valid username and password? 
+
+```
+strcmp()
+```
+
+![[Pasted image 20231005085259.png]]
+
+6. In which directory are the uploaded files stored?
+
+```
+/_uploaded
+```
+
+![[Pasted image 20231005093155.png]]
+
+7. Which user exists on the remote host with a home directory?
+
+```
+john
+```
+
+![[Pasted image 20231005113751.png]]
+
+8. What is the password for the user present on the system? 
+
+```
+thisisagoodpassword
+```
+
+![[Pasted image 20231005114555.png]]
+
+9.  What is the full path to the command that the user john can run as user root on the remote host? 
+
+```
+/usr/bin/find
+```
+
+![[Pasted image 20231005114935.png]]
+
+10.  What action can the find command use to execute commands? 
+
+```
+exec
+```
+
+![[Pasted image 20231005115805.png]]
+
+11.  Submit user flag 
+
+```
+f54846c258f3b4612f78a819573d158e
+```
+
+![[Pasted image 20231005114738.png]]
+
+12.  Submit root flag 
+
+```
+51709519ea18ab37dd6fc58096bea949
+```
+
+![[Pasted image 20231005120512.png]]
