@@ -1,5 +1,5 @@
 
-# 1. Hack the box Machines:
+# 1. Starting Point
 
 ## 1. Mongod (Very Easy)
 
@@ -1452,3 +1452,73 @@ f54846c258f3b4612f78a819573d158e
 ```
 
 ![[Pasted image 20231005120512.png]]
+
+# 2. Tracks
+
+## 1. Beginner Track
+
+### 1. Lame
+
+10.10.10.3
+
+1. How many of the nmap top 1000 TCP ports are open on the remote host?
+
+```
+4
+```
+
+![[Pasted image 20231012213136.png]]
+
+2. What version of VSFTPd is running on Lame?
+
+```
+vsftpd 2.3.4
+```
+
+![[Pasted image 20231012213555.png]]
+
+![[Pasted image 20231012213657.png]]
+
+3. There is a famous backdoor in VSFTPd version 2.3.4, and a Metasploit modeule to exploit it. Does that exploit work here?
+
+```
+no
+```
+
+![[Pasted image 20231012214833.png]]
+
+4. What version of Samba is running on Lame? Give the numbers up to but not including "-Debian".
+
+```
+3.0.20
+```
+
+5. What 2007 CVE allows for remote code execution in this version of Samba via shell metacharacters involving the SamrChangePassword function when the "username map script" option is enabled in smb.conf?
+
+```
+CVE-2007-2447
+```
+
+6. Exploiting CVE-2007-2447 returns a shell as which user?
+
+```
+root
+```
+
+![[Pasted image 20231012232005.png]]
+
+7. Submit the flag located in the makis user's home directory.
+
+```
+d5181be1ca2e0e361b6edf4b992b8abb
+```
+
+![[Pasted image 20231012232259.png]]
+
+8. Submit the flag located in root's home directory.
+
+```
+e10ea9323091eddca9bf8f52038d30d0
+```
+
+![[Pasted image 20231012232131.png]]

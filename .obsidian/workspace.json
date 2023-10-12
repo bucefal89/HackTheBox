@@ -136,6 +136,16 @@
                 "file": "HackTheBox.md"
               }
             }
+          },
+          {
+            "id": "e5889df3bc124c9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -157,17 +167,17 @@
   },
   "active": "2707e47f8f619827",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231012232259.png",
+    "Attachments/Pasted image 20231012232131.png",
+    "Attachments/Pasted image 20231012232005.png",
+    "Attachments/Pasted image 20231012214833.png",
+    "Attachments/Pasted image 20231012213657.png",
+    "Attachments/Pasted image 20231012213555.png",
+    "Attachments/Pasted image 20231012213136.png",
     "Attachments/Pasted image 20231005120512.png",
     "Attachments/Pasted image 20231005115805.png",
     "Attachments/Pasted image 20231005114935.png",
     "Attachments/Pasted image 20231005114738.png",
-    "Attachments/Pasted image 20231005114555.png",
-    "Attachments/Pasted image 20231005113751.png",
-    "Attachments/Pasted image 20231005093155.png",
-    "Attachments/Pasted image 20231005085259.png",
-    "Attachments/Pasted image 20231005085036.png",
-    "Attachments/Pasted image 20230929093206.png",
-    "Attachments/Pasted image 20230929092839.png",
     "HackTheBox.md",
     "aaa",
     "New folder",
