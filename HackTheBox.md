@@ -1453,6 +1453,8 @@ f54846c258f3b4612f78a819573d158e
 
 ![[Pasted image 20231005120512.png]]
 
+
+
 # 2. Tracks
 
 ## 1. Beginner Track
@@ -1522,3 +1524,50 @@ e10ea9323091eddca9bf8f52038d30d0
 ```
 
 ![[Pasted image 20231012232131.png]]
+### 2. Jerry
+
+1. Which TCP port is open on the remote host?
+
+```
+8080
+```
+
+2. Which web server is running on the remote host? Looking for two words.
+
+```
+Apache Tomcat
+```
+
+3. Which relative path on the webserver leads to the Web Application Manager?
+
+```
+/manager/html
+```
+
+4. What is the valid username and password combination for authenticating into the Tomcat Web Application Manager? Give the answer in the format of username:password
+
+```
+tomcat:s3cret
+```
+
+5. Which file type can be uploaded and deployed on the server using the Tomcat Web Application Manager?
+
+```
+war
+```
+
+6. Submit the flag located on the user's desktop.
+
+```
+7004dbcef0f854e0fb401875f26ebd00
+```
+
+![[Pasted image 20231103170350.png]]
+
+7. Submit the flag located on the administrator's desktop.
+
+```
+04a8b36e1545a455393d067e772f290e
+```
+
+
